@@ -1,3 +1,3 @@
 # Fish map
-we r creating curves that model animals' movements! (^◔ᴥ◔^)(^◕ᴥ◕^)
+we r generating random curves (^◔ᴥ◔^)(^◕ᴥ◕^)
 
