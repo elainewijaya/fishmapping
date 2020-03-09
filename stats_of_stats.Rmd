@@ -1,0 +1,41 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+x <- read.csv("summary_stats_1000_curves.csv")
+```
+
+
+
+```{r}
+hist(x$mean[c(1:1000)], main="Histogram of means of x-coordinates", xlab = "Means")
+```
+
+```{r}
+hist(x$mean[(1001:2000)], main="Histogram of means of y-coordinates", xlab = "Means")
+```
+
+```{r}
+hist(x$mean[(2001:3000)], main="Histogram of means of speed", xlab = "Means")
+```
+```{r}
+summary(x$mean[(3001:4000)])
+
+hist(x$mean[(3001:4000)], main="Histogram of means of curvature", xlab = "Means", xlim=range(0,500), breaks = 1000)
+
+hist(log(x$mean[(3001:4000)]), main="Histogram of log means of curvature", xlab = "Means")
+
+boxplot(log(x$mean[(3001:4000)]))
+
+a <- "No. of means greater than 500:"
+outliers <- sum(x$X=="CURVATURE" & x$mean > 500)
+print(paste(a,outliers))
+```
+
+```{r}
+kruskal.test(, data = x)
+```
+
+
