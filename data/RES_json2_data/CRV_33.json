@@ -1,7 +1,7 @@
 [
     {
         "name": "RES_TEST2_CRV_33_RES_02",
-        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_02.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -14,14 +14,14 @@
             "pixels_per_mm": 2,
             "frames_per_sec": 24,
             "start_time": 0,
-            "end_time": 60,
+            "end_time": 1,
             "baseline_start_time": 0,
-            "baseline_end_time": 60
+            "baseline_end_time": 1
         }
     },
     {
         "name": "RES_TEST2_CRV_33_RES_03",
-        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_03.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -34,14 +34,14 @@
             "pixels_per_mm": 3,
             "frames_per_sec": 24,
             "start_time": 0,
-            "end_time": 60,
+            "end_time": 1,
             "baseline_start_time": 0,
-            "baseline_end_time": 60
+            "baseline_end_time": 1
         }
     },
     {
         "name": "RES_TEST2_CRV_33_RES_04",
-        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_04.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -54,14 +54,14 @@
             "pixels_per_mm": 4,
             "frames_per_sec": 24,
             "start_time": 0,
-            "end_time": 60,
+            "end_time": 1,
             "baseline_start_time": 0,
-            "baseline_end_time": 60
+            "baseline_end_time": 1
         }
     },
     {
         "name": "RES_TEST2_CRV_33_RES_05",
-        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_05.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -74,14 +74,14 @@
             "pixels_per_mm": 5,
             "frames_per_sec": 24,
             "start_time": 0,
-            "end_time": 60,
+            "end_time": 1,
             "baseline_start_time": 0,
-            "baseline_end_time": 60
+            "baseline_end_time": 1
         }
     },
     {
         "name": "RES_TEST2_CRV_33_RES_06",
-        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_06.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -94,14 +94,14 @@
             "pixels_per_mm": 6,
             "frames_per_sec": 24,
             "start_time": 0,
-            "end_time": 60,
+            "end_time": 1,
             "baseline_start_time": 0,
-            "baseline_end_time": 60
+            "baseline_end_time": 1
         }
     },
     {
         "name": "RES_TEST2_CRV_33_RES_07",
-        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_07.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -114,14 +114,14 @@
             "pixels_per_mm": 7,
             "frames_per_sec": 24,
             "start_time": 0,
-            "end_time": 60,
+            "end_time": 1,
             "baseline_start_time": 0,
-            "baseline_end_time": 60
+            "baseline_end_time": 1
         }
     },
     {
         "name": "RES_TEST2_CRV_33_RES_08",
-        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test2_data/CRV_33_RES_08.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -134,9 +134,9 @@
             "pixels_per_mm": 8,
             "frames_per_sec": 24,
             "start_time": 0,
-            "end_time": 60,
+            "end_time": 1,
             "baseline_start_time": 0,
-            "baseline_end_time": 60
+            "baseline_end_time": 1
         }
     }
 ]
