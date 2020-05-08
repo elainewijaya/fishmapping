@@ -1,7 +1,7 @@
 [
     {
         "name": "RES_TEST1_CRV_21_RES_0.5",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/RES_test1_data/CRV_21_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test1_data/CRV_21_RES_96.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -21,7 +21,7 @@
     },
     {
         "name": "RES_TEST1_CRV_21_RES_0.75",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/RES_test1_data/CRV_21_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test1_data/CRV_21_RES_96.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -41,7 +41,7 @@
     },
     {
         "name": "RES_TEST1_CRV_21_RES_01",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/RES_test1_data/CRV_21_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test1_data/CRV_21_RES_96.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -61,7 +61,7 @@
     },
     {
         "name": "RES_TEST1_CRV_21_RES_1.25",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/RES_test1_data/CRV_21_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test1_data/CRV_21_RES_96.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -81,7 +81,7 @@
     },
     {
         "name": "RES_TEST1_CRV_21_RES_1.5",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/RES_test1_data/CRV_21_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test1_data/CRV_21_RES_96.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -101,7 +101,7 @@
     },
     {
         "name": "RES_TEST1_CRV_21_RES_1.75",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/RES_test1_data/CRV_21_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test1_data/CRV_21_RES_96.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
@@ -121,7 +121,7 @@
     },
     {
         "name": "RES_TEST1_CRV_21_RES_02",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/RES_test1_data/CRV_21_RES_96.dat",
+        "data_file_location": "/Users/elainewijaya/locomotion_resources/fishmapping/data/RES_test1_data/CRV_21_RES_96.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS funtimes",
