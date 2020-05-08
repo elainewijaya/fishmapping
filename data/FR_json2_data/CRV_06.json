@@ -1,0 +1,142 @@
+[
+    {
+        "name": "FR_TEST2_CRV_06_FR_24",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/FR_test2_data/CRV_06_FR_24.dat",
+        "animal_attributes": {
+            "species": "Magic Scoliosis Fish",
+            "exp_type": "MCS funtimes",
+            "ID": "06",
+            "control_group": "False"
+        },
+        "capture_attributes": {
+            "dim_x": 100,
+            "dim_y": 100,
+            "pixels_per_mm": 2,
+            "frames_per_sec": 24,
+            "start_time": 0,
+            "end_time": 1,
+            "baseline_start_time": 0,
+            "baseline_end_time": 1
+        }
+    },
+    {
+        "name": "FR_TEST2_CRV_06_FR_36",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/FR_test2_data/CRV_06_FR_36.dat",
+        "animal_attributes": {
+            "species": "Magic Scoliosis Fish",
+            "exp_type": "MCS funtimes",
+            "ID": "06",
+            "control_group": "False"
+        },
+        "capture_attributes": {
+            "dim_x": 100,
+            "dim_y": 100,
+            "pixels_per_mm": 2,
+            "frames_per_sec": 36,
+            "start_time": 0,
+            "end_time": 1,
+            "baseline_start_time": 0,
+            "baseline_end_time": 1
+        }
+    },
+    {
+        "name": "FR_TEST2_CRV_06_FR_48",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/FR_test2_data/CRV_06_FR_48.dat",
+        "animal_attributes": {
+            "species": "Magic Scoliosis Fish",
+            "exp_type": "MCS funtimes",
+            "ID": "06",
+            "control_group": "False"
+        },
+        "capture_attributes": {
+            "dim_x": 100,
+            "dim_y": 100,
+            "pixels_per_mm": 2,
+            "frames_per_sec": 48,
+            "start_time": 0,
+            "end_time": 1,
+            "baseline_start_time": 0,
+            "baseline_end_time": 1
+        }
+    },
+    {
+        "name": "FR_TEST2_CRV_06_FR_60",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/FR_test2_data/CRV_06_FR_60.dat",
+        "animal_attributes": {
+            "species": "Magic Scoliosis Fish",
+            "exp_type": "MCS funtimes",
+            "ID": "06",
+            "control_group": "False"
+        },
+        "capture_attributes": {
+            "dim_x": 100,
+            "dim_y": 100,
+            "pixels_per_mm": 2,
+            "frames_per_sec": 60,
+            "start_time": 0,
+            "end_time": 1,
+            "baseline_start_time": 0,
+            "baseline_end_time": 1
+        }
+    },
+    {
+        "name": "FR_TEST2_CRV_06_FR_72",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/FR_test2_data/CRV_06_FR_72.dat",
+        "animal_attributes": {
+            "species": "Magic Scoliosis Fish",
+            "exp_type": "MCS funtimes",
+            "ID": "06",
+            "control_group": "False"
+        },
+        "capture_attributes": {
+            "dim_x": 100,
+            "dim_y": 100,
+            "pixels_per_mm": 2,
+            "frames_per_sec": 72,
+            "start_time": 0,
+            "end_time": 1,
+            "baseline_start_time": 0,
+            "baseline_end_time": 1
+        }
+    },
+    {
+        "name": "FR_TEST2_CRV_06_FR_84",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/FR_test2_data/CRV_06_FR_84.dat",
+        "animal_attributes": {
+            "species": "Magic Scoliosis Fish",
+            "exp_type": "MCS funtimes",
+            "ID": "06",
+            "control_group": "False"
+        },
+        "capture_attributes": {
+            "dim_x": 100,
+            "dim_y": 100,
+            "pixels_per_mm": 2,
+            "frames_per_sec": 84,
+            "start_time": 0,
+            "end_time": 1,
+            "baseline_start_time": 0,
+            "baseline_end_time": 1
+        }
+    },
+    {
+        "name": "FR_TEST2_CRV_06_FR_96",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/robustness_test/data/FR_test2_data/CRV_06_FR_96.dat",
+        "animal_attributes": {
+            "species": "Magic Scoliosis Fish",
+            "exp_type": "MCS funtimes",
+            "ID": "06",
+            "control_group": "False"
+        },
+        "capture_attributes": {
+            "dim_x": 100,
+            "dim_y": 100,
+            "pixels_per_mm": 2,
+            "frames_per_sec": 96,
+            "start_time": 0,
+            "end_time": 1,
+            "baseline_start_time": 0,
+            "baseline_end_time": 1
+        }
+    }
+]
